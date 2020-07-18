@@ -11,6 +11,7 @@ RUN apt-get update \
     ca-certificates \
     wget \
     cmake \
+    gcovr \
     cppcheck \
     python3 \
     python3-pip \
